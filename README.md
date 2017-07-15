@@ -15,8 +15,3 @@ Cheers!
 AMA/Questions:
 
 14abarberis@gmail.com
-
-*Please have subject headline:  AMA/Question @ Scymantic's GitHub: IAS-Simulator*
-
-
-In order to reduce spam unless you have that subject line I will NOT respond.
