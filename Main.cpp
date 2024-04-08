@@ -70,7 +70,7 @@ int read(std::ifstream& file, Memory* memory, std::match_results<std::string::co
 
 //prints contents of Memory class array
 
-void printMem(Memory& const memory, int line_number);
+void printMem(Memory& memory, int line_number);
 
 
 //print pre execution
@@ -999,7 +999,7 @@ int stringToInt(std::string string)
 
 
 
-void printMem(Memory& const memory, int line_number)
+void printMem(Memory& memory, int line_number)
 
 {
 
