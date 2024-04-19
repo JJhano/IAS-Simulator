@@ -1,0 +1,7 @@
+0 0
+1 1
+2 2 
+3 begin
+4 load M(2)
+5 stor M(0)
+6 halt
